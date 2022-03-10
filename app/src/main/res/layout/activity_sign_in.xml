@@ -22,7 +22,11 @@
             android:textColor="@color/primary_text_color"
             android:textSize="@dimen/toolbar_title_text_size"
             android:textStyle="bold" />
+    <view class="androidx.appcompat.app.AlertController$RecycleListView"
+        android:layout_width=""
+        android:layout_height="">
 
+    </view>
     </androidx.appcompat.widget.Toolbar>
 
     <LinearLayout
